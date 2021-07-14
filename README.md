@@ -1,1 +1,1 @@
-# nodejs-academy
+# Nodejs Academy
